@@ -16,3 +16,4 @@ link: http://www.math.ucsd.edu/~mleok/pdf/LeLeMc2010_quadrotor.pdf
   git submodule update --init --recursive
   ```
   
+ https://github.com/vkotaru/quad_geometric_control
